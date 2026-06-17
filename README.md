@@ -4,6 +4,12 @@
 
 <br/>
 
+<a href="https://github.com/ZohaAshraf">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9A3&center=true&vCenter=true&width=700&lines=AI+%26+Full-Stack+Developer;Building+with+the+Claude+API;5th+Place+%E2%80%94+GDG+Build+with+AI+Hackathon+2026;Open+to+Software+Internships+in+PK" alt="Typing SVG" />
+</a>
+
+<br/><br/>
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/zohaashrafs-projects)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zohashraf/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@f243019)
@@ -15,7 +21,7 @@
 
 ### About Me
 
-I'm a BS Computer Science undergraduate at **FAST-NUCES**, focused on **AI** and **full-stack development**. I like building systems that actually solve a problem end to end — from the model or algorithm underneath, to the database, to the interface someone actually clicks on.
+I'm a BS Computer Science undergraduate at **FAST-NUCES**, focused on **AI** and **full-stack development**. I like building systems that solve a problem end to end — from the model or algorithm underneath, to the database, to the interface someone actually clicks on.
 
 - 🧠 Currently building AI-powered tools and exploring applied machine learning
 - 🏆 Placed **5th** at the **GDG Build with AI Hackathon 2026** with *StackSense*
@@ -90,6 +96,18 @@ Visualizes BFS, DFS, UCS, DLS, IDDFS & Bidirectional Search with dynamic obstacl
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZohaAshraf&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+</div>
+
+<br/>
+
+### Contribution Snake
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZohaAshraf/ZohaAshraf/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZohaAshraf/ZohaAshraf/output/github-contribution-grid-snake.svg">
+  <img alt="snake animation" src="https://raw.githubusercontent.com/ZohaAshraf/ZohaAshraf/output/github-contribution-grid-snake.svg">
+</picture>
 </div>
 
 <br/>
