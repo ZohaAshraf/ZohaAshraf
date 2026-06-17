@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00D9A3,100:0d1117&height=200&section=header&text=Zoha%20Ashraf&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20Full-Stack%20Developer&descAlignY=58&descSize=20&animation=twinkling" width="100%"/>
+<img src="header.svg" width="100%"/>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=00D9A3&center=true&vCenter=true&width=600&lines=AI+%26+Full-Stack+Developer;Building+end-to-end+intelligent+systems;5th+%40+GDG+Build+with+AI+Hackathon+2026;Open+to+SWE+internships+in+Lahore+%26+Faisalabad" alt="Typing SVG" />
 
 <br/>
 
@@ -8,6 +12,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zohashraf/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@f243019)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zoha14ashraf@gmail.com)
+[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/zohaashrafs-projects)
 
 </div>
 
@@ -22,6 +27,14 @@ I'm a BS Computer Science undergraduate at **FAST-NUCES**, focused on **AI** and
 - ✍️ Writing technical breakdowns on AI and algorithms over on [Medium](https://medium.com/@f243019)
 - 🎯 Actively looking for **software engineering internships** in Faisalabad & Lahore
 - 🛠️ Also freelance in graphic design & project management on the side
+
+<br/>
+
+### Latest Blog Posts
+_Auto-updates from [Medium](https://medium.com/@f243019) — see setup note below_
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <br/>
 
@@ -92,6 +105,10 @@ Visualizes BFS, DFS, UCS, DLS, IDDFS & Bidirectional Search with dynamic obstacl
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZohaAshraf&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 </div>
 
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=ZohaAshraf&theme=tokyonight&no-bg=true&no-frame=true&row=1&column=6" />
+</div>
+
 <br/>
 
 ### Contribution Snake
@@ -102,6 +119,14 @@ Visualizes BFS, DFS, UCS, DLS, IDDFS & Bidirectional Search with dynamic obstacl
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZohaAshraf/ZohaAshraf/output/github-contribution-grid-snake.svg">
   <img alt="snake animation" src="https://raw.githubusercontent.com/ZohaAshraf/ZohaAshraf/output/github-contribution-grid-snake.svg">
 </picture>
+</div>
+
+<br/>
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=ZohaAshraf&color=00D9A3&style=for-the-badge&label=PROFILE+VIEWS)
+
 </div>
 
 <br/>
