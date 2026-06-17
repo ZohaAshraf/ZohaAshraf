@@ -1,87 +1,8 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ZohaAshraf/ZohaAshraf/main/header.svg" width="100%" alt="Zoha Ashraf"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00D9A3,100:0d1117&height=200&section=header&text=Zoha%20Ashraf&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20Full-Stack%20Developer&descAlignY=58&descSize=20&animation=twinkling" width="100%"/>
 
 <br/>
-
-<svg viewBox="0 0 700 130" xmlns="http://www.w3.org/2000/svg" width="700">
-  <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#0d1117"/>
-      <stop offset="100%" style="stop-color:#161b22"/>
-    </linearGradient>
-    <linearGradient id="line" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#00D9A3;stop-opacity:0"/>
-      <stop offset="50%" style="stop-color:#00D9A3;stop-opacity:1"/>
-      <stop offset="100%" style="stop-color:#00D9A3;stop-opacity:0"/>
-    </linearGradient>
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
-      <feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
-  </defs>
-
-  <!-- background -->
-  <rect width="700" height="130" rx="12" fill="url(#bg)"/>
-
-  <!-- scanning line -->
-  <rect width="700" height="1.5" y="64" fill="url(#line)" opacity="0.4">
-    <animateTransform attributeName="transform" type="translate" from="0 -50" to="0 50"
-      dur="3s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1"/>
-    <animate attributeName="opacity" values="0;0.4;0" dur="3s" repeatCount="indefinite"/>
-  </rect>
-
-  <!-- dot grid -->
-  <g fill="#00D9A3" opacity="0.07">
-    <circle cx="20" cy="20" r="1.5"/><circle cx="50" cy="20" r="1.5"/><circle cx="80" cy="20" r="1.5"/>
-    <circle cx="620" cy="20" r="1.5"/><circle cx="650" cy="20" r="1.5"/><circle cx="680" cy="20" r="1.5"/>
-    <circle cx="20" cy="110" r="1.5"/><circle cx="50" cy="110" r="1.5"/><circle cx="80" cy="110" r="1.5"/>
-    <circle cx="620" cy="110" r="1.5"/><circle cx="650" cy="110" r="1.5"/><circle cx="680" cy="110" r="1.5"/>
-  </g>
-
-  <!-- left bracket -->
-  <text x="28" y="75" font-family="monospace" font-size="48" fill="#00D9A3" opacity="0.25" filter="url(#glow)">{</text>
-  <!-- right bracket -->
-  <text x="650" y="75" font-family="monospace" font-size="48" fill="#00D9A3" opacity="0.25" filter="url(#glow)">}</text>
-
-  <!-- tag line 1 -->
-  <text x="350" y="48" font-family="'Fira Code', monospace" font-size="11" fill="#00D9A3" text-anchor="middle" opacity="0.6">
-    <animate attributeName="opacity" values="0;0.6;0.6;0" dur="8s" begin="0s" repeatCount="indefinite"/>
-    &lt; AI &amp; Full-Stack Developer /&gt;
-  </text>
-
-  <!-- name — big, center -->
-  <text x="350" y="80" font-family="'Fira Code', monospace" font-size="26" font-weight="700"
-        fill="#ffffff" text-anchor="middle" filter="url(#glow)" letter-spacing="3">
-    ZOHA ASHRAF
-  </text>
-
-  <!-- cycling subtitle -->
-  <text x="350" y="104" font-family="'Fira Code', monospace" font-size="11" fill="#00D9A3" text-anchor="middle">
-    <animate attributeName="opacity" values="0;1;1;0;0;0;0;0;0" dur="12s" repeatCount="indefinite"/>
-    Building with the Claude API
-  </text>
-  <text x="350" y="104" font-family="'Fira Code', monospace" font-size="11" fill="#00D9A3" text-anchor="middle">
-    <animate attributeName="opacity" values="0;0;0;0;1;1;0;0;0" dur="12s" repeatCount="indefinite"/>
-    5th Place — GDG Build with AI Hackathon 2026
-  </text>
-  <text x="350" y="104" font-family="'Fira Code', monospace" font-size="11" fill="#00D9A3" text-anchor="middle">
-    <animate attributeName="opacity" values="0;0;0;0;0;0;0;1;1" dur="12s" repeatCount="indefinite"/>
-    Open to Software Internships in PK
-  </text>
-
-  <!-- corner accents -->
-  <line x1="10" y1="10" x2="10" y2="30" stroke="#00D9A3" stroke-width="1.5" opacity="0.5"/>
-  <line x1="10" y1="10" x2="30" y2="10" stroke="#00D9A3" stroke-width="1.5" opacity="0.5"/>
-  <line x1="690" y1="10" x2="690" y2="30" stroke="#00D9A3" stroke-width="1.5" opacity="0.5"/>
-  <line x1="670" y1="10" x2="690" y2="10" stroke="#00D9A3" stroke-width="1.5" opacity="0.5"/>
-  <line x1="10" y1="120" x2="10" y2="100" stroke="#00D9A3" stroke-width="1.5" opacity="0.5"/>
-  <line x1="10" y1="120" x2="30" y2="120" stroke="#00D9A3" stroke-width="1.5" opacity="0.5"/>
-  <line x1="690" y1="120" x2="690" y2="100" stroke="#00D9A3" stroke-width="1.5" opacity="0.5"/>
-  <line x1="670" y1="120" x2="690" y2="120" stroke="#00D9A3" stroke-width="1.5" opacity="0.5"/>
-</svg>
-
-<br/><br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://zohaashraf.github.io/Portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zohashraf/)
@@ -185,6 +106,4 @@ Visualizes BFS, DFS, UCS, DLS, IDDFS & Bidirectional Search with dynamic obstacl
 
 <br/>
 
-<div align="center">
-<i>Open to internships & collaborations — feel free to reach out.</i>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00D9A3,100:0d1117&height=100&section=footer" width="100%"/>
