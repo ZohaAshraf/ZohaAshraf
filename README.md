@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="header.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/ZohaAshraf/ZohaAshraf/main/header.svg" width="100%"/>
 
 <br/>
 
