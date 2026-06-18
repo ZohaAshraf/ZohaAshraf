@@ -87,7 +87,7 @@ Visualizes BFS, DFS, UCS, DLS, IDDFS & Bidirectional Search with dynamic obstacl
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle%20SQL-F80000?style=flat-square&logo=oracle&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 </div>
@@ -105,10 +105,6 @@ Visualizes BFS, DFS, UCS, DLS, IDDFS & Bidirectional Search with dynamic obstacl
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZohaAshraf&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 </div>
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ZohaAshraf&theme=tokyonight&no-bg=true&no-frame=true&row=1&column=6" />
-</div>
-
 <br/>
 
 ### Contribution Snake
@@ -118,6 +114,18 @@ Visualizes BFS, DFS, UCS, DLS, IDDFS & Bidirectional Search with dynamic obstacl
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZohaAshraf/ZohaAshraf/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZohaAshraf/ZohaAshraf/output/github-contribution-grid-snake.svg">
   <img alt="snake animation" src="https://raw.githubusercontent.com/ZohaAshraf/ZohaAshraf/output/github-contribution-grid-snake.svg">
+</picture>
+</div>
+
+<br/>
+
+### Contribution Calendar — 3D View
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZohaAshraf/ZohaAshraf/main/profile-3d-contrib/profile-night-green.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZohaAshraf/ZohaAshraf/main/profile-3d-contrib/profile-green-animate.svg">
+  <img alt="3D contribution graph" src="https://raw.githubusercontent.com/ZohaAshraf/ZohaAshraf/main/profile-3d-contrib/profile-green-animate.svg" width="100%"/>
 </picture>
 </div>
 
