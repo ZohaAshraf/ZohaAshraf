@@ -22,11 +22,11 @@
 
 I'm a BS Computer Science undergraduate at **FAST-NUCES**, focused on **AI** and **full-stack development**. I like building systems that solve a problem end to end — from the model or algorithm underneath, to the database, to the interface someone actually clicks on.
 
-- 🧠 Currently building AI-powered tools and exploring applied machine learning
-- 🏆 Placed **5th** at the **GDG Build with AI Hackathon 2026** with *StackSense*
-- ✍️ Writing technical breakdowns on AI and algorithms over on [Medium](https://medium.com/@f243019)
-- 🎯 Actively looking for **software engineering internships** in Faisalabad & Lahore
-- 🛠️ Also freelance in graphic design & project management on the side
+-  Currently building AI-powered tools and exploring applied machine learning
+-  Placed **5th** at the **GDG Build with AI Hackathon 2026** with *StackSense*
+-  Writing technical breakdowns on AI and algorithms over on [Medium](https://medium.com/@f243019)
+-  Actively looking for **software engineering internships** in Faisalabad & Lahore
+-  Also freelance in graphic design & project management on the side
 
 <br/>
 
@@ -44,14 +44,14 @@ _Auto-updates from [Medium](https://medium.com/@f243019) — see setup note belo
 <tr>
 <td width="50%" valign="top">
 
-**🧩 [StackSense](https://github.com/ZohaAshraf/ai-hackathon-submission-bz-force-main)**
+** [StackSense](https://github.com/ZohaAshraf/ai-hackathon-submission-bz-force-main)**
 AI dashboard built during the GDG Build with AI Hackathon 2026, placed 5th out of all teams. Built on the Anthropic Claude API.
 `Claude API` `React` `Node.js`
 
 </td>
 <td width="50%" valign="top">
 
-**🅿️ [UrbanPark AI](https://github.com/ZohaAshraf/urbanpark-ai)**
+** [UrbanPark AI](https://github.com/ZohaAshraf/urbanpark-ai)**
 Smart parking management system with real-time slot detection and booking logic.
 `FastAPI` `Oracle SQL` `React`
 
@@ -60,14 +60,14 @@ Smart parking management system with real-time slot detection and booking logic.
 <tr>
 <td width="50%" valign="top">
 
-**🧮 [AI Sudoku Solver](https://github.com/ZohaAshraf/ai-sudoku-solver)**
+** [AI Sudoku Solver](https://github.com/ZohaAshraf/ai-sudoku-solver)**
 CSP-based solver combining backtracking, forward checking, and AC-3 to solve puzzles of varying difficulty.
 `Python` `CSP` `AI Search`
 
 </td>
 <td width="50%" valign="top">
 
-**🗺️ [AI Pathfinding Visualizer](https://github.com/ZohaAshraf/AI_Pathfinding_Visualizer)**
+** [AI Pathfinding Visualizer](https://github.com/ZohaAshraf/AI_Pathfinding_Visualizer)**
 Visualizes BFS, DFS, UCS, DLS, IDDFS & Bidirectional Search with dynamic obstacles and live GUI animation.
 `Python` `Pygame` `Search Algorithms`
 
