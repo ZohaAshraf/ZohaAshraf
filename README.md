@@ -207,7 +207,7 @@ Visualizes BFS, DFS, UCS, DLS, IDDFS & Bidirectional Search with dynamic obstacl
 ### Trophies
 
 <div align="center">
-<img src="./profile/trophy.svg" />
+<img src="https://github-profile-trophy.vercel.app/?username=ZohaAshraf&theme=onedark&column=4" width="80%"/>
 </div>
 
 <br/>
