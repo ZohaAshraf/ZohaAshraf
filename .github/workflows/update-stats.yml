@@ -31,13 +31,6 @@ jobs:
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Generate Trophy card
-        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
-        with:
-          username: ${{ github.repository_owner }}
-          file: profile/trophy.svg
-          token: ${{ secrets.TROPHY_TOKEN }}
-
       - name: Commit and push if the SVGs changed
         run: |
           git config user.name "github-actions[bot]"
