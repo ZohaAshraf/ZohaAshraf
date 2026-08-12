@@ -25,7 +25,6 @@
 &nbsp;·&nbsp;
 📌 **Open to:** Software Engineering internships in Lahore & Faisalabad
 &nbsp;·&nbsp;
-🎯 **Long-term goal:** Software Engineer in Japan — currently studying Japanese
 
 </div>
 
