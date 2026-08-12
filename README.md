@@ -37,14 +37,14 @@ I'm a BS Computer Science undergraduate at **FAST-NUCES**, focused on **AI** and
 
 -  Currently building AI-powered tools and exploring applied machine learning
 -  Placed **5th** at the **GDG Build with AI Hackathon 2026** with *StackSense*
--  Writing technical breakdowns on AI and algorithms over on [Medium](https://medium.com/@f243019)
+-  Writing technical breakdowns on AI and algorithms over on [Medium](https://medium.com/@zohaa3019)
 -  Actively looking for **software engineering internships** in Faisalabad & Lahore
 -  Also freelance in graphic design & project management on the side
 
 <br/>
 
 ### Latest Blog Posts
-_Auto-updates from [Medium](https://medium.com/@f243019) — see setup note below_
+_Auto-updates from [Medium](https://medium.com/@zohaa3019) — see setup note below_
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
