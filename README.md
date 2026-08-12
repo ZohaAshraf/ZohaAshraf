@@ -8,7 +8,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-gray-two-46.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-gray-two-46.vercel.app/projects)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zohashraf/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@f243019)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zoha14ashraf@gmail.com)
@@ -25,7 +25,7 @@
 &nbsp;·&nbsp;
 📌 **Open to:** Software Engineering internships in Lahore & Faisalabad
 &nbsp;·&nbsp;
-🎯 **Long-term goal:** Software Engineer in Japan 🇯🇵 — currently studying Japanese
+🎯 **Long-term goal:** Software Engineer in Japan — currently studying Japanese
 
 </div>
 
@@ -199,7 +199,7 @@ Visualizes BFS, DFS, UCS, DLS, IDDFS & Bidirectional Search with dynamic obstacl
 
 <div align="center">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=ZohaAshraf&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ZohaAshraf&theme=tokyonight&hide_border=true&background=0d1117" />
+<img height="165" src="https://streak-stats.demolab.com/?user=ZohaAshraf&theme=tokyonight&hide_border=true&background=0d1117" />
 </div>
 
 <div align="center">
