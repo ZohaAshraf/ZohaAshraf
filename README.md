@@ -10,9 +10,22 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-gray-two-46.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zohashraf/)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@zohaa3019)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@f243019)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zoha14ashraf@gmail.com)
 [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/zohaashrafs-projects)
+
+</div>
+
+<br/>
+
+<!-- STATUS BAR -->
+<div align="center">
+
+🟢 **Currently:** Backend AI Engineering Intern @ FlyRank &nbsp;|&nbsp; Web Dev / UI-UX Intern @ Deimos Tech
+&nbsp;·&nbsp;
+📌 **Open to:** Software Engineering internships in Lahore & Faisalabad
+&nbsp;·&nbsp;
+🎯 **Long-term goal:** Software Engineer in Japan 🇯🇵 — currently studying Japanese
 
 </div>
 
@@ -35,6 +48,49 @@ _Auto-updates from [Medium](https://medium.com/@f243019) — see setup note belo
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+<br/>
+
+### Experience
+
+<table>
+<tr>
+<td width="15%"><b>Jul 2026 – Present</b></td>
+<td width="85%">
+
+**Backend AI Engineering Intern** · FlyRank
+Building and shipping AI-agent and API assignments — FastAPI CRUD services, SQLite migrations, and an AI Fluency Capstone agent deployed on Vercel.
+
+</td>
+</tr>
+<tr>
+<td><b>Jun 2026 – Aug 2026</b></td>
+<td>
+
+**Web Development / UI-UX Intern (Hybrid)** · Deimos Tech
+Working across a focus-timer app and an inventory management system, from UI design through implementation.
+
+</td>
+</tr>
+<tr>
+<td><b>2026</b></td>
+<td>
+
+**Freelance Designer & Developer** · Fiverr
+Graphic design and web development projects delivered end-to-end for external clients.
+
+</td>
+</tr>
+<tr>
+<td><b>2026</b></td>
+<td>
+
+**5th Place** · GDG Build with AI Hackathon
+Built *StackSense*, an AI Stack Monitor, with team BZ Force, using the Anthropic Claude API and FastAPI.
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -94,6 +150,51 @@ Visualizes BFS, DFS, UCS, DLS, IDDFS & Bidirectional Search with dynamic obstacl
 
 <br/>
 
+### Skills Matrix
+
+<table>
+<tr>
+<td valign="top" width="25%">
+
+**Languages**
+- Python
+- C
+- JavaScript / TypeScript
+- SQL
+
+</td>
+<td valign="top" width="25%">
+
+**Frameworks & Libraries**
+- React / Vite
+- Tailwind CSS
+- FastAPI
+- Node.js / Express
+
+</td>
+<td valign="top" width="25%">
+
+**Data & Backend**
+- Oracle SQL
+- SQLite
+- SQLAlchemy / Prisma
+- n8n Automation
+
+</td>
+<td valign="top" width="25%">
+
+**AI / Tools**
+- Claude API
+- Gemini API
+- Figma / Google Stitch
+- Git & GitHub
+
+</td>
+</tr>
+</table>
+
+<br/>
+
 ### GitHub Stats
 
 <div align="center">
@@ -103,6 +204,14 @@ Visualizes BFS, DFS, UCS, DLS, IDDFS & Bidirectional Search with dynamic obstacl
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZohaAshraf&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+</div>
+
+<br/>
+
+### Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=ZohaAshraf&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" />
 </div>
 
 <br/>
