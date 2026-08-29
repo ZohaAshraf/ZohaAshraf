@@ -18,6 +18,19 @@
 
 <br/>
 
+<!-- ASCII AVATAR + LIVE STATS TERMINAL CARD (gh-ascii) -->
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="ZohaAshraf's GitHub profile" src="dark_mode.svg" width="100%" />
+</picture>
+
+</div>
+
+<br/>
+
 <!-- STATUS BAR -->
 <div align="center">
 
