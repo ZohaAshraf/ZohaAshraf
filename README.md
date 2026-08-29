@@ -18,14 +18,14 @@
 
 <br/>
 
-<!-- ASCII AVATAR + LIVE STATS TERMINAL CARD (gh-ascii) -->
+<!-- ASCII AVATAR + ANIMATED CONTRIBUTION GRAPH -->
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
-  <img alt="ZohaAshraf's GitHub profile" src="dark_mode.svg" width="100%" />
-</picture>
+<img src="avatar_ascii.svg" width="380" alt="ASCII portrait of Zoha Ashraf" />
+
+<br/><br/>
+
+<img src="contrib_animated.svg" width="80%" alt="Animated contribution graph" />
 
 </div>
 
