@@ -1,0 +1,91 @@
+<svg viewBox="0 0 808 557" xmlns="http://www.w3.org/2000/svg" font-family="Menlo, Consolas, 'SF Mono', monospace">
+
+<defs>
+  <linearGradient id="winbg" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#11161d"/>
+    <stop offset="1" stop-color="#0a0d12"/>
+  </linearGradient>
+  <clipPath id="clip"><rect x="0" y="0" width="808" height="557" rx="14"/></clipPath>
+</defs>
+<style>
+  .ln { opacity: 0; }
+  .fx { opacity: 0; }
+  @keyframes fadeIn { 0% { opacity: 0; transform: translateY(2px); } 100% { opacity: 1; transform: translateY(0); } }
+  @keyframes fadeInX { 0% { opacity: 0; transform: translateX(-6px); } 100% { opacity: 1; transform: translateX(0); } }
+  @keyframes popIn { 0% { opacity: 0; transform: scale(0.5); } 70% { opacity: 1; transform: scale(1.12); } 100% { opacity: 1; transform: scale(1); } }
+</style>
+
+<g clip-path="url(#clip)">
+<rect x="0" y="0" width="808" height="557" fill="url(#winbg)"/>
+<rect x="0.75" y="0.75" width="806.5" height="555.5" rx="13" fill="none" stroke="#242b36" stroke-width="1.5"/>
+<rect x="0" y="0" width="808" height="40" fill="#161b22"/>
+<line x1="0" y1="40" x2="808" y2="40" stroke="#242b36" stroke-width="1"/>
+<circle cx="22" cy="20.0" r="6.5" fill="#ff5f56"/>
+<circle cx="42" cy="20.0" r="6.5" fill="#ffbd2e"/>
+<circle cx="62" cy="20.0" r="6.5" fill="#27c93f"/>
+<text x="404.0" y="24.0" text-anchor="middle" font-size="12.5" fill="#8b949e">zoha@github: ~</text>
+<text class="ln" x="28" y="138.2" font-size="8.6" fill="#39d353" textLength="392.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve" style="animation: fadeIn 0.4s ease-out 0.315s forwards">                               -+=+*+-=*+::::::-:                           </text>
+<text class="ln" x="28" y="147.3" font-size="8.6" fill="#39d353" textLength="392.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve" style="animation: fadeIn 0.4s ease-out 0.360s forwards">                          .=*#*%%%%%%%%%%%%%%%%%%#+:                        </text>
+<text class="ln" x="28" y="156.3" font-size="8.6" fill="#39d353" textLength="392.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve" style="animation: fadeIn 0.4s ease-out 0.405s forwards">                       .=##%%%#%%%%%%%#*####%%%%%%%%*-                      </text>
+<text class="ln" x="28" y="165.3" font-size="8.6" fill="#39d353" textLength="392.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve" style="animation: fadeIn 0.4s ease-out 0.450s forwards">                      -#%##%#%%%%%%%#*+-+*##%%%%%%%%%%+                     </text>
+<text class="ln" x="28" y="174.4" font-size="8.6" fill="#39d353" textLength="392.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve" style="animation: fadeIn 0.4s ease-out 0.495s forwards">                     +%##%%%%%#*+=-:.    .:--=--+#%%%%%*.                   </text>
+<text class="ln" x="28" y="183.4" font-size="8.6" fill="#39d353" textLength="392.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve" style="animation: fadeIn 0.4s ease-out 0.540s forwards">                    *%%#%%%%*-.                  -*#%%#%*                   </text>
+<text class="ln" x="28" y="192.4" font-size="8.6" fill="#39d353" textLength="392.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve" style="animation: fadeIn 0.4s ease-out 0.585s forwards">                  .#@%%%%%%*                   ..-+#%%%%%#:                 </text>
+<text class="ln" x="28" y="201.4" font-size="8.6" fill="#39d353" textLength="392.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve" style="animation: fadeIn 0.4s ease-out 0.630s forwards">                  *%%%%%%%#:                  ..:--+*%%%%%%:                </text>
+<text class="ln" x="28" y="210.5" font-size="8.6" fill="#39d353" textLength="392.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve" style="animation: fadeIn 0.4s ease-out 0.675s forwards">                 =%##%%%%*.                     ..:-+#%%%%%#                </text>
+<text class="ln" x="28" y="219.5" font-size="8.6" fill="#39d353" textLength="392.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve" style="animation: fadeIn 0.4s ease-out 0.720s forwards">                 *%%%%%%%-                       ..:-*%%%%%@=               </text>
+<text class="ln" x="28" y="228.5" font-size="8.6" fill="#39d353" textLength="392.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve" style="animation: fadeIn 0.4s ease-out 0.765s forwards">                :%%%%%%%+                ..::::::::::-#%%%%%#               </text>
+<text class="ln" x="28" y="237.6" font-size="8.6" fill="#39d353" textLength="392.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve" style="animation: fadeIn 0.4s ease-out 0.810s forwards">               .%%%%%%%* .-==++**+++++=-=**##%%%%%%%%###%%%%%*.             </text>
+<text class="ln" x="28" y="246.6" font-size="8.6" fill="#39d353" textLength="392.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve" style="animation: fadeIn 0.4s ease-out 0.855s forwards">               *%%%%%%*.=#%%%%%%%%%%%%%%%#%%%%%%%%%%%%%#%%%%%%-             </text>
+<text class="ln" x="28" y="255.6" font-size="8.6" fill="#39d353" textLength="392.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve" style="animation: fadeIn 0.4s ease-out 0.900s forwards">              +%%%%%%* -%####*#%%%%%###*###%%%%%%#######%%%%%%.             </text>
+<text class="ln" x="28" y="264.7" font-size="8.6" fill="#39d353" textLength="392.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve" style="animation: fadeIn 0.4s ease-out 0.945s forwards">             =%%%%%%%= -#%%##*#%%%%%%*. .+%%%%%%%%%%%%##%%%%%#              </text>
+<text class="ln" x="28" y="273.7" font-size="8.6" fill="#39d353" textLength="392.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve" style="animation: fadeIn 0.4s ease-out 0.990s forwards">            .%%#%%%%%=. :=*%%%%%%%%*=     =#%%%%%%%%%%%##%%%%-              </text>
+<text class="ln" x="28" y="282.7" font-size="8.6" fill="#39d353" textLength="392.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve" style="animation: fadeIn 0.4s ease-out 1.035s forwards">            =%##%%%%%=    .=**###+:        =**#%%%%%###*#%%%%=              </text>
+<text class="ln" x="28" y="291.8" font-size="8.6" fill="#39d353" textLength="392.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve" style="animation: fadeIn 0.4s ease-out 1.080s forwards">            =%####%%%=        .           .+#-.:===+++**#%%%%*              </text>
+<text class="ln" x="28" y="300.8" font-size="8.6" fill="#39d353" textLength="392.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve" style="animation: fadeIn 0.4s ease-out 1.125s forwards">            :%%#####%*.         .:=:       -##.    .=*#%%%%%%%:             </text>
+<text class="ln" x="28" y="309.8" font-size="8.6" fill="#39d353" textLength="392.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve" style="animation: fadeIn 0.4s ease-out 1.170s forwards">             *@%%##**%+.     .-+#%*::====+*#*#*:::-=+*%%#%%%%@*             </text>
+<text class="ln" x="28" y="318.8" font-size="8.6" fill="#39d353" textLength="392.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve" style="animation: fadeIn 0.4s ease-out 1.215s forwards">              #%%%%*###=::::=#%%%+  *%%%%%%%%%##**####%##%%%%%%:            </text>
+<text class="ln" x="28" y="327.9" font-size="8.6" fill="#39d353" textLength="392.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve" style="animation: fadeIn 0.4s ease-out 1.260s forwards">              *@%%%%#%%*===#%##*:    :=*####%###%%%%%%#%%%%%%%%*            </text>
+<text class="ln" x="28" y="336.9" font-size="8.6" fill="#39d353" textLength="392.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve" style="animation: fadeIn 0.4s ease-out 1.305s forwards">             .%%%%%%%%@#+=-==#%+-+*#****###%%##%##%%%#%@@%%%%%%#            </text>
+<text class="ln" x="28" y="345.9" font-size="8.6" fill="#39d353" textLength="392.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve" style="animation: fadeIn 0.4s ease-out 1.350s forwards">             *%%%%%%**%%*+=:-#+::-=+**###%%%%%%#######%#*%%%%%%%            </text>
+<text class="ln" x="28" y="355.0" font-size="8.6" fill="#39d353" textLength="392.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve" style="animation: fadeIn 0.4s ease-out 1.395s forwards">         :-+*%%%%%%#-+*%%###%#:..=+++++**#####%#####%%#**%%%%%%@:           </text>
+<text class="ln" x="28" y="364.0" font-size="8.6" fill="#39d353" textLength="392.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve" style="animation: fadeIn 0.4s ease-out 1.440s forwards">      .=#%@@%%%%%%*-=-+%%####*:.:=#%%%%%%%#########%%#**%*%%%%%@=           </text>
+<text class="ln" x="28" y="373.0" font-size="8.6" fill="#39d353" textLength="392.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve" style="animation: fadeIn 0.4s ease-out 1.485s forwards">      =%%%%%%%%%%%%####%@#+#%%+.  .:-=*########%%%%%%%%%%%%%%%%%*           </text>
+<text class="ln" x="28" y="382.0" font-size="8.6" fill="#39d353" textLength="392.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve" style="animation: fadeIn 0.4s ease-out 1.530s forwards">      .###%%%%%%%%%%%%%%%#:.*%%*=:....:=*#%##%%%%%@%%%%%%%%%%%%%%:          </text>
+<text class="ln" x="28" y="391.1" font-size="8.6" fill="#39d353" textLength="392.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve" style="animation: fadeIn 0.4s ease-out 1.575s forwards">       -%%%%%%##%%#%%%%###***%%%%%#########%%%%%%%@%%%%%#%%%%%%%%+          </text>
+<text class="ln" x="28" y="400.1" font-size="8.6" fill="#39d353" textLength="392.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve" style="animation: fadeIn 0.4s ease-out 1.620s forwards">        -%%%%###%##%%%%%###%####%%%%%%%%%%%%%%%%%%%%%%%%##%%%%%%%#          </text>
+<text class="ln" x="28" y="409.1" font-size="8.6" fill="#39d353" textLength="392.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve" style="animation: fadeIn 0.4s ease-out 1.665s forwards">         =%%%%#%%%%%%%%%##########%%%%%%%%%%%%%%%%%%%%%%%##%%%%%%+          </text>
+<text class="ln" x="28" y="418.2" font-size="8.6" fill="#39d353" textLength="392.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve" style="animation: fadeIn 0.4s ease-out 1.710s forwards">         #%%%%%#%%%%%%%############%%%%%%%%%%%%%%%%%%%%%%#%%%%%%%:          </text>
+<text class="ln" x="28" y="427.2" font-size="8.6" fill="#39d353" textLength="392.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve" style="animation: fadeIn 0.4s ease-out 1.755s forwards">       .*%#%%%%#%%%%%%%%##############%%%%%%%%%%%%%%%%%%%%%%%%#%*           </text>
+<text class="ln" x="28" y="436.2" font-size="8.6" fill="#39d353" textLength="392.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve" style="animation: fadeIn 0.4s ease-out 1.800s forwards">      =%%%%#%%%%%%%%%%%%###########%%%%%%%%%%%%%%%%%%%%%%%%%%%%##-:         </text>
+<text class="ln" x="28" y="445.3" font-size="8.6" fill="#39d353" textLength="392.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve" style="animation: fadeIn 0.4s ease-out 1.845s forwards">      #%%%%%%%%%%%%%%%%%%%###%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%*.       </text>
+<text class="ln" x="28" y="454.3" font-size="8.6" fill="#39d353" textLength="392.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve" style="animation: fadeIn 0.4s ease-out 1.890s forwards">     :%#%%%%%%%%%%%%%%##%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#%%%%%####%%#:      </text>
+<text class="ln" x="28" y="463.3" font-size="8.6" fill="#39d353" textLength="392.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve" style="animation: fadeIn 0.4s ease-out 1.935s forwards">     +%##%%%%%%%%%######+-=+#%%%%%%%%%%%%%%%%%%%%%%%*#%%%%%%%%%%%%%%%%.     </text>
+<text class="ln" x="28" y="472.3" font-size="8.6" fill="#39d353" textLength="392.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve" style="animation: fadeIn 0.4s ease-out 1.980s forwards">     =%#%%%%%%%%%#####%*     .-=*#%%%####%%%%%%%%%%%%%##%%%%%#%#%%%%%#      </text>
+<text class="ln" x="28" y="481.4" font-size="8.6" fill="#39d353" textLength="392.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve" style="animation: fadeIn 0.4s ease-out 2.025s forwards">     :%%%%%%%%#########%-        .=********++*#*#*+%%#####%%%%%%%%%%%#      </text>
+<text class="ln" x="28" y="490.4" font-size="8.6" fill="#39d353" textLength="392.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve" style="animation: fadeIn 0.4s ease-out 2.070s forwards">     =@%%%%%%###%######%+            :-*+++++#**%#==*##%####%%%%#%%%%+      </text>
+<text class="ln" x="28" y="499.4" font-size="8.6" fill="#39d353" textLength="392.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve" style="animation: fadeIn 0.4s ease-out 2.115s forwards">     +%%%%%%%##########%=              .:=+%#%*##*%==*##%%%%%%%%##%#*.      </text>
+<text class="ln" x="28" y="508.5" font-size="8.6" fill="#39d353" textLength="392.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve" style="animation: fadeIn 0.4s ease-out 2.160s forwards">     -@%%%*=*#%%%%%%%%%%#                  =+#%##*##++###*==**#%%%%-        </text>
+<text class="ln" x="28" y="517.5" font-size="8.6" fill="#39d353" textLength="392.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve" style="animation: fadeIn 0.4s ease-out 2.205s forwards">      :+%-   *==+*-=+*##=              :.    .:+**=######+     .:--         </text>
+<text class="ln" x="28" y="526.5" font-size="8.6" fill="#39d353" textLength="392.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve" style="animation: fadeIn 0.4s ease-out 2.250s forwards">        .              .                            :-:...                  </text>
+<text class="fx" x="460.15999999999997" y="88.0" font-size="17" font-weight="700" fill="#e6edf3" style="animation: fadeInX 0.4s ease-out 1.262s forwards">Zoha Ashraf</text>
+<line class="fx" x1="460.15999999999997" y1="105.5" x2="770.16" y2="105.5" stroke="#30363d" stroke-width="1.2" style="animation: fadeInX 0.4s ease-out 1.352s forwards"/>
+<text class="fx" x="460.15999999999997" y="139.0" font-size="13" style="animation: fadeInX 0.4s ease-out 1.442s forwards"><tspan fill="#39d353" font-weight="600">Role</tspan><tspan fill="#6e7681">  </tspan><tspan fill="#c9d1d9">AI &amp; Full-Stack Developer</tspan></text>
+<text class="fx" x="460.15999999999997" y="164.5" font-size="13" style="animation: fadeInX 0.4s ease-out 1.532s forwards"><tspan fill="#39d353" font-weight="600">Base</tspan><tspan fill="#6e7681">  </tspan><tspan fill="#c9d1d9">Faisalabad / Lahore, PK</tspan></text>
+<text class="fx" x="460.15999999999997" y="190.0" font-size="13" style="animation: fadeInX 0.4s ease-out 1.622s forwards"><tspan fill="#39d353" font-weight="600">Edu</tspan><tspan fill="#6e7681">  </tspan><tspan fill="#c9d1d9">BS CS @ FAST-NUCES</tspan></text>
+<text class="fx" x="460.15999999999997" y="215.5" font-size="13" style="animation: fadeInX 0.4s ease-out 1.712s forwards"><tspan fill="#39d353" font-weight="600">Repos</tspan><tspan fill="#6e7681">  </tspan><tspan fill="#c9d1d9">41</tspan></text>
+<text class="fx" x="460.15999999999997" y="241.0" font-size="13" style="animation: fadeInX 0.4s ease-out 1.802s forwards"><tspan fill="#39d353" font-weight="600">Stars</tspan><tspan fill="#6e7681">  </tspan><tspan fill="#c9d1d9">7</tspan></text>
+<text class="fx" x="460.15999999999997" y="266.5" font-size="13" style="animation: fadeInX 0.4s ease-out 1.892s forwards"><tspan fill="#39d353" font-weight="600">Followers</tspan><tspan fill="#6e7681">  </tspan><tspan fill="#c9d1d9">8</tspan></text>
+<text class="fx" x="460.15999999999997" y="292.0" font-size="13" style="animation: fadeInX 0.4s ease-out 1.982s forwards"><tspan fill="#39d353" font-weight="600">Following</tspan><tspan fill="#6e7681">  </tspan><tspan fill="#c9d1d9">4</tspan></text>
+<text class="fx" x="460.15999999999997" y="317.5" font-size="13" style="animation: fadeInX 0.4s ease-out 2.072s forwards"><tspan fill="#39d353" font-weight="600">Languages</tspan><tspan fill="#6e7681">  </tspan><tspan fill="#c9d1d9">Python, JS/TS, C, SQL</tspan></text>
+<text class="fx" x="460.15999999999997" y="343.0" font-size="13" style="animation: fadeInX 0.4s ease-out 2.162s forwards"><tspan fill="#39d353" font-weight="600">Status</tspan><tspan fill="#6e7681">  </tspan><tspan fill="#c9d1d9">Available for internships</tspan></text>
+<rect class="fx" x="460.2" y="376.5" width="35.8" height="14" rx="3" fill="#0d1117" stroke="#30363d" stroke-width="1" style="animation: popIn 0.35s ease-out 2.402s forwards"/>
+<rect class="fx" x="498.9" y="376.5" width="35.8" height="14" rx="3" fill="#ff5f56" stroke="none" stroke-width="1" style="animation: popIn 0.35s ease-out 2.432s forwards"/>
+<rect class="fx" x="537.7" y="376.5" width="35.8" height="14" rx="3" fill="#39d353" stroke="none" stroke-width="1" style="animation: popIn 0.35s ease-out 2.462s forwards"/>
+<rect class="fx" x="576.4" y="376.5" width="35.8" height="14" rx="3" fill="#ffbd2e" stroke="none" stroke-width="1" style="animation: popIn 0.35s ease-out 2.492s forwards"/>
+<rect class="fx" x="615.2" y="376.5" width="35.8" height="14" rx="3" fill="#58a6ff" stroke="none" stroke-width="1" style="animation: popIn 0.35s ease-out 2.522s forwards"/>
+<rect class="fx" x="653.9" y="376.5" width="35.8" height="14" rx="3" fill="#bc8cff" stroke="none" stroke-width="1" style="animation: popIn 0.35s ease-out 2.552s forwards"/>
+<rect class="fx" x="692.7" y="376.5" width="35.8" height="14" rx="3" fill="#39c5cf" stroke="none" stroke-width="1" style="animation: popIn 0.35s ease-out 2.582s forwards"/>
+<rect class="fx" x="731.4" y="376.5" width="35.8" height="14" rx="3" fill="#e6edf3" stroke="none" stroke-width="1" style="animation: popIn 0.35s ease-out 2.612s forwards"/>
+</g>
+</svg>
