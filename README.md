@@ -18,14 +18,14 @@
 
 <br/>
 
-<!-- ASCII AVATAR + ANIMATED CONTRIBUTION GRAPH -->
+<!-- TERMINAL CARD: ASCII AVATAR + NEOFETCH INFO -->
 <div align="center">
 
-<img src="avatar_ascii.svg" width="380" alt="ASCII portrait of Zoha Ashraf" />
+<img src="terminal_card.svg" width="85%" alt="Zoha Ashraf — ASCII portrait and profile info" />
 
 <br/><br/>
 
-<img src="contrib_animated.svg" width="80%" alt="Animated contribution graph" />
+<img src="contrib_card.svg" width="85%" alt="Animated GitHub contribution graph" />
 
 </div>
 
